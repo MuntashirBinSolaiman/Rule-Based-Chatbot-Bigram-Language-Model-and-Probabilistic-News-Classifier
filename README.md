@@ -1,4 +1,4 @@
-# Natural Language Processing: Chatbot, Language Model, and News Classifier
+# Rule-Based Chatbot, Bigram Language Model, and Probabilistic News Classifier
 
 ## What
 This repository contains implementations of three NLP systems: a rule-based chatbot using regular expressions, a bigram language model for authorship attribution, and a Naive Bayes classifier for fake vs real news detection.
